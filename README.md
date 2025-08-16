@@ -11,7 +11,6 @@ A devboard incorporating a RP2040 chip, together with a ESP32C3-wroom for wirele
 <img src=img/3d_bottom.png alt="3D" width="600"/>
 
 ## Schematic
-I split them for better readability
 
 <img src=img/schematic.png alt="Schematic" width="600"/>
 
